@@ -1,0 +1,89 @@
+
+.slider-image{
+   max-height: 550px!important;
+   object-fit: cover;
+}
+
+.service_icon{
+   font-size: 100px;
+   color:#FF4F00;
+}
+
+button{
+   background-color: #FF4F00;
+   color: white;
+   
+   border:5px solid #FF4F00;
+}
+.conatiner button{
+   background-color: #FF4F00;
+   color: white;
+   
+   border:5px solid #FF4F00;
+}
+
+.sec button:hover{
+   background-color: #b03d07;
+   border:5px solid #b03d07;
+}
+.background1{
+   color:white ;
+   background-image: url("/static/images/bg2.png");
+
+}
+#nav_btn:hover{
+   color: orange;
+}
+#logo_btn:hover{
+   color: orange;
+}
+.form_section{
+   width: 60%;
+   margin: auto;
+   /* border: 2px solid yellow; */
+}
+
+.form_section button{
+   background-color: #FF4F00;
+   color: white;
+  border: 0px solid #FF4F00;
+}
+.form_section button:hover{
+   background-color: #b03d07;
+   border:5px solid #b03d07;
+
+}
+.banner2_section button{
+   background-color: #FF4F00;
+   color: white;
+  /* border: 0px solid #FF4F00; */
+}
+.banner2_section button:hover{
+   background-color: #b03d07;
+   /* border:5px solid #b03d07; */
+
+}
+.banner1_section  button{
+   background-color: #FF4F00;
+   color: white;
+  border: 0px solid #FF4F00;
+}
+.banner1_section  button:hover{
+   background-color: #b03d07;
+   /* border:5px solid #b03d07; */
+
+}
+.about_section  button{
+   background-color: #FF4F00;
+   color: white;
+  border: 0px solid #FF4F00;
+}
+.about_section  button:hover{
+   background-color: #b03d07;
+   /* border:5px solid #b03d07; */
+
+}
+
+#con{
+   color: #FF4F00;
+}
